@@ -1,0 +1,3 @@
+[submodule "css/public/libs"]
+	path = css/public/libs
+	url = git@github.com:HendrikOB/libs.git
